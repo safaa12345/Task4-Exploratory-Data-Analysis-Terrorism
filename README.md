@@ -1,11 +1,14 @@
 # Task4-Exploratory-Data-Analysis-Terrorism
 
-## Boughija Safaa
+### Author: Boughija Safaa
 
-Data Science and Business Analytics Intern @ The Sparks Foundation \n
-Topic : Exploratory Data Analysis (EDA) - Terrorism \n
-(Level - Intermediate)\n
-Dataset : https://bit.ly/2TK5Xn5 \n
+Data Science and Business Analytics Intern @ The Sparks Foundation
+
+Topic : Exploratory Data Analysis (EDA) - Terrorism
+
+(Level - Intermediate)
+
+Dataset : https://bit.ly/2TK5Xn5
 
 In this project, I analyzed the huge dataset on terrorism where all the details are provided.
 
